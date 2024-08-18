@@ -1,8 +1,8 @@
 # Minha evolução em java
 
-* Nesse repositório você poderá acompanhar toda a minha evolução em java
+* Nesse repositório você poderá acompanhar toda a minha evolução em Java
 
-* Pretendo atualizar o repositório e implementar projetos com o sprigboot 
+* Pretendo atualizar o repositório e implementar projetos com o SprigBoot 
 
 
 
